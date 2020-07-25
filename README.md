@@ -24,3 +24,8 @@ Now there is also the problem that this method does not find any rotational move
 ### Potential Ideas
 
 Can we use an edge detection algorithm to make it easier to find keypoints as well as remove a lot of noise?
+
+## Resourses
+Apparntly Kalman filter is pretty important
+https://medium.com/@jannik.zuern/robot-localization-with-kalman-filters-and-landmarks-cf97fa44e80b
+Seems like a good article?

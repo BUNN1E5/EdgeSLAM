@@ -29,3 +29,6 @@ Can we use an edge detection algorithm to make it easier to find keypoints as we
 Apparntly Kalman filter is pretty important
 https://medium.com/@jannik.zuern/robot-localization-with-kalman-filters-and-landmarks-cf97fa44e80b
 Seems like a good article?
+
+Also looks pretty usefull
+https://atsushisakai.github.io/PythonRobotics/#slam

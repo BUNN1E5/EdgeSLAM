@@ -32,6 +32,9 @@ Seems like a good article?
 
 Also looks pretty usefull
 https://atsushisakai.github.io/PythonRobotics/#slam
+and
+https://github.com/jzuern/robot-localization
 
 Data structure to store the datapoints
 https://answers.ros.org/question/331731/data-structure-to-store-a-map-while-doing-it-with-slam/
+

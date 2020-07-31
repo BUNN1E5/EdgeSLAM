@@ -40,3 +40,4 @@ https://answers.ros.org/question/331731/data-structure-to-store-a-map-while-doin
 
 Good video showing orb-slam2, camera based slam
 https://www.youtube.com/watch?v=IuBGKxgaxS0
+The Git repo: https://github.com/raulmur/ORB_SLAM2

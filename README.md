@@ -36,13 +36,8 @@ and
 https://github.com/jzuern/robot-localization
 
 Data structure to store the datapoints
-
 https://answers.ros.org/question/331731/data-structure-to-store-a-map-while-doing-it-with-slam/
 
-Good video showing orb-slam2, camera based slam
-
-https://www.youtube.com/watch?v=IuBGKxgaxS0
-
+Good video showing orb-slam2, camera based slam: https://www.youtube.com/watch?v=IuBGKxgaxS0
 The Git repo: https://github.com/raulmur/ORB_SLAM2
-
 The research Paper: https://arxiv.org/pdf/1610.06475.pdf

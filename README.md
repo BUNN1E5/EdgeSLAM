@@ -24,6 +24,7 @@ Now there is also the problem that this method does not find any rotational move
 ### Potential Ideas
 
 Can we use an edge detection algorithm to make it easier to find keypoints as well as remove a lot of noise?
+Octree for holding the landmark points
 
 ## Resourses
 Apparntly Kalman filter is pretty important
@@ -41,3 +42,6 @@ https://answers.ros.org/question/331731/data-structure-to-store-a-map-while-doin
 Good video showing orb-slam2, camera based slam: https://www.youtube.com/watch?v=IuBGKxgaxS0
 The Git repo: https://github.com/raulmur/ORB_SLAM2
 The research Paper: https://arxiv.org/pdf/1610.06475.pdf
+
+Also Check out VIO (Visual Inertial Odometry)
+https://www.youtube.com/watch?v=F3OFzsaPtvI

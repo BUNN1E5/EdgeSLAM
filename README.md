@@ -45,3 +45,6 @@ The research Paper: https://arxiv.org/pdf/1610.06475.pdf
 
 Also Check out VIO (Visual Inertial Odometry)
 https://www.youtube.com/watch?v=F3OFzsaPtvI
+
+Good overview of SLAM it seems
+https://www.andreasjakl.com/basics-of-ar-slam-simultaneous-localization-and-mapping/

@@ -13,7 +13,8 @@ This is will be a single camera implementation of SLAM as I only have a single P
 Here are some ideas about the high level on how this algorithm is going to determine position
 
 Using ORB Feature matching we can actually compare between 2 different images, the current frame and the previous
-this should give us a basic idea about the opitcal flow of our camera by finding the average distance moved between frames.
+this should give us a basic idea about the optical flow of our camera by finding the average distance moved between frames.
+Use Object Tracking between the frames instead of 2 seperate ORB detections?
 
 This isn't perfect however, becasue there is the possibility of moving objects within the frame. So we also have to remove any outlier
 or weigh the different points by some measure.
@@ -24,7 +25,7 @@ Now there is also the problem that this method does not find any rotational move
 ### Potential Ideas
 
 Can we use an edge detection algorithm to make it easier to find keypoints as well as remove a lot of noise?
-Octree for holding the landmark points
+Octree for holding the landmark points?
 
 ## Resourses
 Apparntly Kalman filter is pretty important
